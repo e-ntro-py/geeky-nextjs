@@ -17,7 +17,14 @@
     <img src="https://img.shields.io/github/contributors/statichunt/geeky-nextjs" alt="contributors"></a>
 </p>
 
-![geeky](https://statichunt.com/themes/nextjs-geeky.png)
+---
+
+<p align="center">
+ 
+![geeky-hugo-startup-theme](https://user-images.githubusercontent.com/17677384/140605658-0c68cf6c-d15a-4f0d-8e66-1060ce636d20.png)
+</p>
+
+---
 
 ## Key Features
 
@@ -66,6 +73,19 @@ After finishing all the customization, you can create a production build by runn
 ```
 npm run build
 ```
+<!-- edit with sitepins -->
+
+## 📝 Edit Content with CMS
+
+This template comes pre-configured with [**Sitepins**](https://sitepins.com), a Git-based Headless CMS designed for seamless content management. You can update your website’s text, images, and configuration without touching a single line of code.
+
+**How to get started:**
+
+Click the Edit with Sitepins button below and follow the on-screen instructions to start editing your content visually.
+
+  <a target="_blank" href="https://app.sitepins.com/new/clone?name=Geeky%20Nextjs&repository=https://github.com/statichunt/geeky-nextjs/">
+    <img src="https://sitepins.com/button.svg" alt="Edit with Sitepins">
+  </a>
 
 <!-- reporting issue -->
 ## Reporting Issues
